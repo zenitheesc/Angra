@@ -43,7 +43,7 @@ This system was designed using Eagle v.9.4.2
 ## Board
 
 <p align = "center">
-<img src="https://github.com/MarcusMoraisEpifane/Alcantara/blob/main/Help/Components.png"/>
+<img src="https://github.com/MarcusMoraisEpifane/Angra/blob/main/Images/Angra.png"/>
 </p>
 
 It supplies power to up to 5 systems with the voltage of its own batteries and 1 with 5V, in addition to ensuring the health of the batteries, solar charging and wireless monitoring of the status.
